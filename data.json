@@ -1,0 +1,22 @@
+{
+  "links" : [
+    {
+      "url": "google.com",
+      "classType": "waspada"
+    },
+    {
+      "url": "medium.com",
+      "classType": "waspada"
+    },
+    {
+      "url": "getbootstrap.com",
+      "classType": "waspada"
+    }
+  ],
+  "social-account" : [
+    {
+      "url" : "https://www.facebook.com/gabestev",
+      "classType": "berita-palsu"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+/* 
+  classType List
+  - berita-palsu
+  - satir
+  - bias-politik
+  - teori-konspirasi
+  - junk-science
+  - hate-group
+  - clickbait
+  - waspada
+  - pending
+*/
+
+{
+  "links" : [
+    {
+      "url": "somesite.com",
+      "classType": "clickbait"
+    },
+    {
+      "url": "site-b.com",
+      "classType": "bias-politik"
+    }
+  ],
+  "social-account" : [
+    {
+      "url" : "https://www.facebook.com/somename",
+      "classType": "berita-palsu"
+    }
+  ]
+}
